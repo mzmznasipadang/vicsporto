@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "naspadstudio.my.id",
+    default: "Naspad Studio Digital",
     template: "%s | naspadstudio.my.id",
   },
   description: "Founder of NasPad Studio",
   openGraph: {
-    title: "naspadstudio.my.id",
+    title: "Naspad Studio Digital",
     description:
       "Founder of NasPad Studio",
     url: "https://naspadstudio.my.id",
     siteName: "naspadstudio.my.id",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "public/og.png",
         width: 1920,
         height: 1080,
       },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "Naspad Studio Digital",
     card: "summary_large_image",
   },
   icons: {
