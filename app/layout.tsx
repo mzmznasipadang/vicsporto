@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     siteName: "naspadstudio.my.id",
     images: [
       {
-        url: "public/og.png",
+        url: "https://raw.githubusercontent.com/mzmznasipadang/vicsporto/main/public/og.png",
         width: 1920,
         height: 1080,
       },
